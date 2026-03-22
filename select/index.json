@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "LOVE INSANE",
+  "base_artist": "MAX, JAY (ENHYPEN), & Ayumu Imazu",
+  "createdAt": "2026-03-22T07:43:04.205281Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Love Insane",
+      "artist": "Superman Is Dead",
+      "has_synced": true,
+      "path": "select/01_Forever_Love_Insane_Superman_Is_Dead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE INSANE (Feat. JAY of ENHYPEN)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/02_LOVE_INSANE_(Feat._JAY_of_ENHYPEN)_MAX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE INSANE",
+      "artist": "MAX, JAY (ENHYPEN)",
+      "has_synced": true,
+      "path": "select/03_LOVE_INSANE_MAX,_JAY_(ENHYPEN).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LOVE INSANE",
+      "artist": "Max",
+      "has_synced": true,
+      "path": "select/04_LOVE_INSANE_Max.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE INSANE (Feat. JAY of ENHYPEN)",
+      "artist": "MAX/JAY (ENHYPEN)",
+      "has_synced": true,
+      "path": "select/05_LOVE_INSANE_(Feat._JAY_of_ENHYPEN)_MAX_JAY_(ENHYPEN).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LOVE INSANE",
+      "artist": "MAX; JAY (ENHYPEN); Ayumu Imazu",
+      "has_synced": true,
+      "path": "select/06_LOVE_INSANE_MAX;_JAY_(ENHYPEN);_Ayumu_Imazu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LOVE INSANE (Feat. JAY of ENHYPEN & Ayumu Imazu)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/07_LOVE_INSANE_(Feat._JAY_of_ENHYPEN_&_Ayumu_Imazu)_MAX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE INSANE (Feat. JAY of ENHYPEN)",
+      "artist": "MAX, JAY (ENHYPEN)",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_INSANE_(Feat._JAY_of_ENHYPEN)_MAX,_JAY_(ENHYPEN).txt"
+    }
+  ]
+}
